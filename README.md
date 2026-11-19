@@ -1,17 +1,28 @@
-# Sylan
+这里是 Sylan，欢迎来到我的主页。我目前关注 always-on, evolving agent 的设计与评测工作。
 
-我关注 Agent 如何完成一项任务，以及怎样判断它在哪一步出了错。这里放了两个可以沿着执行过程读的实验，也放了一张可以直接用的 AI 公司地图。
+- [Agent Loop 源码实验](https://github.com/ningsiyuan1024/learn-agent-loops) · 用 Python 和 TypeScript 实现执行循环，再用同一组输入和 Pi 的实际行为做对照。
+- **正在做** · [Hermes Kanban 任务阻塞状态修复](https://github.com/NousResearch/hermes-agent/pull/157925)
+- **正在关注** · Hermes 的 [Review 模型路由](https://github.com/NousResearch/hermes-agent/issues/157784)和[工具集分层](https://github.com/NousResearch/hermes-agent/issues/156320)、BrowserGym 的 [AssistantBench 评分越界](https://github.com/ServiceNow/BrowserGym/issues/420)和[MiniWoB 成功判定](https://github.com/ServiceNow/BrowserGym/issues/392)，以及 [mini-SWE-agent #1013](https://github.com/SWE-agent/mini-swe-agent/issues/1013) 和 [Harbor #4287](https://github.com/harbor-framework/harbor/issues/4287)。
 
-**[Twenty Agent Loops](https://github.com/ningsiyuan1024/twenty-agent-loops)** · Agent 执行机制  
-同样是收到一批工具结果，有的循环继续请求模型，有的直接结束。这个实验用 Python 和 TypeScript 把这些分支跑出来，再和固定版本的上游实现对照。建议从 [pi 的五组探针](https://github.com/ningsiyuan1024/twenty-agent-loops/blob/main/reports/fidelity-pi-probe.json) 开始：其中四组观察到了差异，可以看到教学实现遗漏了什么。
+我很喜欢在北京来也科技的第一份正式工作。作为新人，我加入了一个既有深厚企业业务经验、又非常 AI Native 的团队，参与桌面办公 Agent 的研发、7×24 小时 AI Coding 软件工厂的建设，以及 Computer Use 相关的后训练。
 
-**[AI-Talent](https://github.com/ningsiyuan1024/ai-talent-career-copilot)** · LangGraph 应用原型  
-把多轮访谈整理成结构化画像，再并行生成职场优势、创作优势和导师匹配等材料，最后组装报告。仓库提供无需模型密钥的规则模式；[验收说明](https://github.com/ningsiyuan1024/ai-talent-career-copilot/blob/deepseek-mainline-handoff-20260419/docs/acceptance.md) 列出了每一步该交付什么。
+- [AI Coding 工程实践](https://github.com/ningsiyuan1024/ai-coding-engineering) · 按照一条需求从 Issue 到 PR 的过程，整理国内研发团队的工程案例。
 
-**[AI 公司地图 ↗](https://ningsiyuan1024.github.io/ai-company-map/)** · 可直接使用的数据产品  
-按城市和方向查找 AI 团队，从公司详情返回招聘与地址来源。只确认到城市的公司也可以检索，地图不会给它猜一个办公地点。[数据与核验方式](https://github.com/ningsiyuan1024/ai-company-map#数据与核验)
+我本科毕业于山东大学物理系，研究生在新加坡国立大学从计算物理转向 AI for Science。
 
-**[Photo2Memory](https://github.com/ningsiyuan1024/photo2memory)** · 创意 AI  
-一张旅行照片，可以做成一本纸刊，也可以做成一幅记忆三联画。这个小型索引按输入和作品形式整理方法，保留原作者、案例与核验状态，方便选到合适的方法动手试。
+- [Awesome AI for Science](https://github.com/ningsiyuan1024/awesome-ai-for-science)
 
-[个人博客](https://ningsiyuan1024.github.io/)
+我会从攀岩、摄影这些生活里的爱好中寻找灵感，用 Vibe Coding 做一些有趣的 AI 产品 Demo。我做得最成功的一款产品叫「天赋商业化」，帮助人们把兴趣和才华做成自己的产品。账号有 2 万多位关注者，产品有 2,000 多位付费用户、500 多位订阅用户。我非常喜欢看到人们把自己的独特之处做成产品，得到别人真金白银的认可。
+
+- [AI-Talent](https://github.com/ningsiyuan1024/ai-talent-career-copilot) · 通过多轮访谈，帮人梳理职业优势和创作方向。
+- [AI 公司地图](https://ningsiyuan1024.github.io/ai-company-map/) · 按城市和方向找 AI 团队，也能找到对应的招聘入口。
+- [Photo2Memory](https://github.com/ningsiyuan1024/photo2memory) · 收集把旅行照片做成纸刊、记忆三联画的方法和案例。
+
+---
+
+<p align="center">
+  <strong><a href="https://ningsiyuan1024.github.io/">个人博客</a>　·　<a href="https://ningsiyuan1024.github.io/sylan-linktree/">Sylan 的 Linktree ↗</a></strong>
+</p>
+<p align="center">
+  公众号 <strong>SylanOvO</strong>　·　<a href="https://x.com/syunnng2">X @syunnng2</a>　·　<a href="https://www.zhihu.com/people/nsy-83">知乎 NOOO</a>　·　<a href="https://www.xiaohongshu.com/user/profile/67bd21af0000000004030bec">小红书 Sylan</a>
+</p>
