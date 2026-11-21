@@ -2,7 +2,7 @@
 
 
 - **正在做** · [Hermes Kanban 任务阻塞状态修复](https://github.com/NousResearch/hermes-agent/pull/157925)
-- **正在关注** · Hermes 的 [Review 模型路由](https://github.com/NousResearch/hermes-agent/issues/157784)和[工具集分层](https://github.com/NousResearch/hermes-agent/issues/156320)、BrowserGym 的 [AssistantBench 评分越界](https://github.com/ServiceNow/BrowserGym/issues/420)和[MiniWoB 成功判定](https://github.com/ServiceNow/BrowserGym/issues/392)，以及 [mini-SWE-agent #1013](https://github.com/SWE-agent/mini-swe-agent/issues/1013) 和 [Harbor #4287](https://github.com/harbor-framework/harbor/issues/4287)。
+- **正在关注** · [Concord MCP 的 OpenHands 接入](https://github.com/Get-Concord-AI/concord-mcp/issues/351)、[DreamCoder 的子 Agent 消息投递](https://github.com/GoDiao/dreamcoder/issues/272)、[Jeeves 的故障回放测试](https://github.com/ChrisVip001/Jeeves/issues/4)、[Ailoy 的流式消息合并错误](https://github.com/brekkylab/ailoy/issues/605)和[Reticle 跨语言回放时的错误提示](https://github.com/reticlehq/reticle/issues/2278)。
 
 我很喜欢在北京来也科技的第一份正式工作。我作为新人加入了一个既有深厚企业业务经验、又非常 AI Native 的团队，参与过桌面办公 Agent 的研发、7×24 小时 AI Coding 软件工厂的建设，以及 Computer Use 相关的后训练。
 
