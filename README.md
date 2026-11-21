@@ -4,7 +4,7 @@
 - **正在做** · [Hermes Kanban 任务阻塞状态修复](https://github.com/NousResearch/hermes-agent/pull/157925)
 - **正在关注** · Hermes 的 [Review 模型路由](https://github.com/NousResearch/hermes-agent/issues/157784)和[工具集分层](https://github.com/NousResearch/hermes-agent/issues/156320)、BrowserGym 的 [AssistantBench 评分越界](https://github.com/ServiceNow/BrowserGym/issues/420)和[MiniWoB 成功判定](https://github.com/ServiceNow/BrowserGym/issues/392)，以及 [mini-SWE-agent #1013](https://github.com/SWE-agent/mini-swe-agent/issues/1013) 和 [Harbor #4287](https://github.com/harbor-framework/harbor/issues/4287)。
 
-我很喜欢在北京来也科技的第一份正式工作。当时我作为新人加入了一个既有深厚企业业务经验、又非常 AI Native 的团队，参与过桌面办公 Agent 的研发、7×24 小时 AI Coding 软件工厂的建设，以及 Computer Use 相关的后训练。
+我很喜欢在北京来也科技的第一份正式工作。我作为新人加入了一个既有深厚企业业务经验、又非常 AI Native 的团队，参与过桌面办公 Agent 的研发、7×24 小时 AI Coding 软件工厂的建设，以及 Computer Use 相关的后训练。
 
 - [AI Coding 工程实践](https://github.com/ningsiyuan1024/ai-coding-engineering) · 按照一条需求从 Issue 到 PR 的过程，整理国内研发团队的工程案例。
 
