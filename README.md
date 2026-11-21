@@ -1,6 +1,6 @@
-这里是 Sylan，欢迎来到我的主页。我目前关注 always-on, evolving agent 的设计与评测工作。
+这里是 Sylan，欢迎来到我的主页。我目前关注 always-on, evolving agent 的设计与评测，并积极参与开源社区中的相关项目。
 
-- [Agent Loop 源码实验](https://github.com/ningsiyuan1024/learn-agent-loops) · 用 Python 和 TypeScript 实现执行循环，再用同一组输入和 Pi 的实际行为做对照。
+
 - **正在做** · [Hermes Kanban 任务阻塞状态修复](https://github.com/NousResearch/hermes-agent/pull/157925)
 - **正在关注** · Hermes 的 [Review 模型路由](https://github.com/NousResearch/hermes-agent/issues/157784)和[工具集分层](https://github.com/NousResearch/hermes-agent/issues/156320)、BrowserGym 的 [AssistantBench 评分越界](https://github.com/ServiceNow/BrowserGym/issues/420)和[MiniWoB 成功判定](https://github.com/ServiceNow/BrowserGym/issues/392)，以及 [mini-SWE-agent #1013](https://github.com/SWE-agent/mini-swe-agent/issues/1013) 和 [Harbor #4287](https://github.com/harbor-framework/harbor/issues/4287)。
 
