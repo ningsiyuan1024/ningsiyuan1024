@@ -10,7 +10,7 @@
 
 我本科在山东大学物理系，受到深度学习浪潮的感召，我兼修了人工智能的学位。
 
-研究生在新加坡国立大学，我有机会计算物理转向 AI for Science，那年John Hopfield和Geoffrey Hinton拿到了诺贝尔物理学奖，于是我放弃了继续攻读物理系PhD转而进入了AI行业。
+研究生在新加坡国立大学，我有机会计算物理转向 AI for Science，那年John Hopfield和Geoffrey Hinton拿到了诺贝尔物理学奖，我放弃在物理系继续攻读PhD转而进入了AI行业。
 
 - [Awesome AI for Science](https://github.com/ningsiyuan1024/awesome-ai-for-science)
 
