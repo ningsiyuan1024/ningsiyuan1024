@@ -1,4 +1,4 @@
-这里是 Sylan，欢迎来到我的主页。我目前关注 always-on, evolving agent harnesses构建与评测，并积极参与开源社区中的相关项目。
+这里是 Sylan，欢迎来到我的主页。我目前关注 always-on, evolving agent harnesses 的构建与评测，也关注多 Agent 协作，并积极参与开源社区中的相关项目。
 
 
 - **正在做** · [Hermes Kanban 任务阻塞状态修复](https://github.com/NousResearch/hermes-agent/pull/157925)
