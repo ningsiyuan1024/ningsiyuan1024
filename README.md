@@ -1,4 +1,4 @@
-这里是 Sylan，欢迎来到我的主页。我目前的关注于下一代 Agent 范式：Always-on Agents / Self-evolving Agents / Proactive Agents / Multi-Agent Collaboration的技术实现和产品化表达。
+这里是 Sylan，欢迎来到我的主页。我目前的关注于[下一代 Agent 范式](#我关注的方向)：Always-on Agents / Self-evolving Agents / Proactive Agents / Multi-Agent Collaboration的技术实现和产品化表达。
 
 正在积极参与开源社区中的相关项目。
 
@@ -17,6 +17,22 @@
 - [AI-Talent](https://github.com/ningsiyuan1024/ai-talent-career-copilot) · 通过多轮访谈，帮人梳理职业优势和创作方向。
 - [AI 公司地图](https://ningsiyuan1024.github.io/ai-company-map/) · 按城市和方向找 AI 团队，也能找到对应的招聘入口。
 - [Photo2Memory](https://github.com/ningsiyuan1024/photo2memory) · 收集把旅行照片做成纸刊、记忆三联画的方法和案例。
+
+## 我关注的方向
+
+### 算法方向
+
+1. **Harness Self‑Evolution**：研究 Harness 闭环自进化机制，自主迭代工具集、执行架构与多智能体协作范式，适配模型能力与业务场景演进。
+2. **Context Engineering**：探索复杂场景下的上下文组织与编排，在模型窗口和 token efficiency 约束下引导模型聚焦关键信息，提升 Agent 任务表现。
+3. **Multi‑Agent Coordination**：研究大规模分布式智能体协作，构建 Agent 集群化协作能力。
+4. **Long‑term Memory**：研究 Agent 长期记忆、经验内化与自我迭代机制，形成稳定的行为模式与长期决策准则。
+5. **Long‑Horizon**：研究长链路、稀疏反馈任务下的持续决策机制，降低长周期执行中的能力衰减。
+
+### 工程方向
+
+1. **Harness Self‑Evolution**：搭建 Agent 自进化 SDK 与平台，实现智能体自主迭代与持续能力升级。
+2. **Context Engineering**：优化 Agent 上下文与提示工程，提升复杂场景下的适配能力与任务表现。
+3. **Evaluation**：建设 Agent 多维度评测体系、数据集与基准，支撑 Agent 效果迭代和自进化。
 
 ---
 
