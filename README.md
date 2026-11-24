@@ -1,4 +1,4 @@
-这里是 Sylan，欢迎来到我的主页。我目前关注 always-on, evolving agent harnesses 的构建与评测，以及多 Agent 的协作与通信。
+这里是 Sylan，欢迎来到我的主页。我目前的关注于下一代 Agent 范式：Always-on Agents / Self-evolving Agents / Proactive Agents / Multi-Agent Collaboration的技术实现和产品化表达。
 
 正在积极参与开源社区中的相关项目。
 
