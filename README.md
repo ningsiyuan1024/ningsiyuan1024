@@ -4,7 +4,7 @@
 
 我很喜欢我在北京来也科技的第一份正式工作。我作为新人加入了一个既有深厚企业业务经验、又非常 AI Native 的团队。我参与了桌面办公 Agent 的研发、7×24 小时 AI Coding 软件工厂的建设，以及 Computer Use 相关的后训练等等。
 
-- [AI Coding 工程实践](https://github.com/ningsiyuan1024/ai-coding-engineering) · 按照一条需求从 Issue 到 PR 的过程，整理国内研发团队的工程案例。
+- [AI Coding 工程实践](https://github.com/ningsiyuan1024/ai-coding-engineering) · 我的agentic engineering阅读精选和实践探索。
 
 我本科在山东大学物理系，受到深度学习浪潮的感召，我兼修了人工智能的学位。
 
@@ -18,7 +18,7 @@
 - [AI 公司地图](https://ningsiyuan1024.github.io/ai-company-map/) · 按城市和方向找 AI 团队，也能找到对应的招聘入口。
 - [Photo2Memory](https://github.com/ningsiyuan1024/photo2memory) · 收集把旅行照片做成纸刊、记忆三联画的方法和案例。
 
-## 我关注的方向
+## 研究兴趣
 
 ### 算法方向
 
