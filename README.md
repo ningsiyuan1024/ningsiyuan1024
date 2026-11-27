@@ -4,17 +4,17 @@
 
 我很喜欢我在北京来也科技的第一份正式工作。我作为新人加入了一个既有深厚企业业务经验、又非常 AI Native 的团队。我参与了桌面办公 Agent 的研发、7×24 小时 AI Coding 软件工厂的建设，以及 Computer Use 相关的后训练等等。
 
-- [AI Coding 工程实践](https://github.com/ningsiyuan1024/ai-coding-engineering) · 我的agentic engineering阅读精选和实践探索。
+- [AI Coding 工程实践](https://github.com/ningsiyuan1024/ai-coding-engineering) · 我的Agentic Engineering阅读精选和实践探索。
 
 我本科在山东大学物理系，受到深度学习浪潮的感召，我兼修了人工智能的学位。
 
-研究生在新加坡国立大学，我有机会计算物理转向 AI for Science，那年John Hopfield和Geoffrey Hinton拿到了诺贝尔物理学奖，我放弃在物理系继续攻读PhD转而进入了AI行业。
+研究生在新加坡国立大学，我从理论计算转向 AI for Science，那年Hinton等人拿到了诺贝尔物理学奖，我意识到或许我可以直接转向AI行业。
 
 - [Awesome AI for Science](https://github.com/ningsiyuan1024/awesome-ai-for-science)
 
 我会从攀岩、摄影这些生活里的爱好中寻找灵感，用 Vibe Coding 做一些有趣的 AI 产品 Demo。我做得最成功的一款产品叫「天赋商业化」，帮助人们把兴趣和才华做成自己的产品。账号有 2 万多位关注者，产品有 2,000 多位付费用户、500 多位订阅用户。我非常喜欢看到人们把自己的独特之处做成产品，得到别人真金白银的认可。
 
-- [AI-Talent](https://github.com/ningsiyuan1024/ai-talent-career-copilot) · 通过多轮访谈，帮人梳理职业优势和创作方向。
+- [Talent to Product](https://github.com/ningsiyuan1024/talent-to-product) · 将兴趣和热爱变成事业。
 - [AI 公司地图](https://ningsiyuan1024.github.io/ai-company-map/) · 按城市和方向找 AI 团队，也能找到对应的招聘入口。
 - [Photo2Memory](https://github.com/ningsiyuan1024/photo2memory) · 收集把旅行照片做成纸刊、记忆三联画的方法和案例。
 
